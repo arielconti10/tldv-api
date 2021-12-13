@@ -29,7 +29,7 @@ Second, run the development server
 # Available Endpoints: 
 - /videos
 - /videos/:id
-- videos/:id/edit
+- /videos/:id/edit
 
 API is currently served at https://tldv-api.herokuapp.com
 
