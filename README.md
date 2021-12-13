@@ -1,3 +1,8 @@
-# Strapi application
+# TL;DV ASSIGNMENT API
 
-A quick description of your strapi application
+Available Endpoints: 
+- /videos
+- /videos/:id
+- videos/:id/edit
+
+
